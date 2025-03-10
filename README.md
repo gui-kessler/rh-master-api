@@ -11,6 +11,8 @@ ____
 ### Configuração
 
 ```bash
+$ git clone https://github.com/gui-kessler/rh-master-api.git
+$ cd rh-master-api
 $ cp .env.example .env
 ```
 
@@ -19,8 +21,6 @@ $ cp .env.example .env
 ### Instalação
 
 ```bash
-$ git clone https://github.com/gui-kessler/rh-master-api.git
-$ cd rh-master-api
 $ npm install
 $ npm run init:db
 ```
