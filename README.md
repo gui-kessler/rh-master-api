@@ -16,7 +16,7 @@ $ cp .env.example .env
 
 * No arquivo `.env`, utilize o DATABASE_URL que foi enviado no whatsapp junto ao projeto. O banco de dados ja esta rodando na nuvem.
 
-### Intalação
+### Instalação
 
 ```bash
 $ git clone https://github.com/gui-kessler/rh-master-api.git
